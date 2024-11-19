@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="zero">0</string>
+    <string name="ac">AC</string>
+    <string name="PlusMinus">C</string>
+    <string name="Percent">%</string>
+    <string name="Divide">/</string>
+    <string name="Seven">7</string>
+    <string name="eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Mult">x</string>
+    <string name="Four">4</string>
+    <string name="Fife">5</string>
+    <string name="Six">6</string>
+    <string name="Minus">-</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Plus">+</string>
+    <string name="Zero1">0</string>
+    <string name="Point">.</string>
+    <string name="Equals">=</string>
+</resources>
